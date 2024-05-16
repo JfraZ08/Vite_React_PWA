@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+}
+
+.list li:nth-child(odd){
+  color: blue;
+}
+
